@@ -1,0 +1,6 @@
+﻿body
+{
+    background-image: url('@Url.Content("~/images/Background.jpg")');
+width: 100px;
+height: 100px;
+}
