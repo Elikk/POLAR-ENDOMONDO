@@ -1,0 +1,15 @@
+﻿div{
+    color:darkgray;
+    border:solid;
+    width: 15%;
+    height: 40%;
+    opacity:0.7;
+    position:fixed;
+    top: 30%;
+    left: 50%;
+}
+
+input{
+   position:absolute;
+   top:10%;
+}
