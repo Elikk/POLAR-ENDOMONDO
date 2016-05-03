@@ -1,9 +1,0 @@
-C:\Users\eliskn\Desktop\GIT\POLAR-ENDOMONDO\WebApp\DatabaseLayer\bin\Debug\Tracker_Core.dacpac
-C:\Users\eliskn\Desktop\GIT\POLAR-ENDOMONDO\WebApp\DatabaseLayer\bin\Debug\DatabaseLayer.dll
-C:\Users\eliskn\Desktop\GIT\POLAR-ENDOMONDO\WebApp\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
-C:\Users\eliskn\Desktop\GIT\POLAR-ENDOMONDO\WebApp\DatabaseLayer\obj\Debug\Model.xml
-C:\Users\eliskn\Desktop\GIT\POLAR-ENDOMONDO\WebApp\DatabaseLayer\obj\Debug\refactor.xml
-C:\Users\eliskn\Desktop\GIT\POLAR-ENDOMONDO\WebApp\DatabaseLayer\obj\Debug\postdeploy.sql
-C:\Users\eliskn\Desktop\GIT\POLAR-ENDOMONDO\WebApp\DatabaseLayer\obj\Debug\predeploy.sql
-C:\Users\eliskn\Desktop\GIT\POLAR-ENDOMONDO\WebApp\DatabaseLayer\obj\Debug\DatabaseLayer.dll
-C:\Users\eliskn\Desktop\GIT\POLAR-ENDOMONDO\WebApp\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
